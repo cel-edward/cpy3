@@ -1,3 +1,7 @@
+Minor fork to permit Python 3.8 usage.
+
+Based on changes made in this PR: https://github.com/christian-korneck/go-python3/commit/6f8fd23d06e2fa4720e79df61d86f3b694061636
+
 # Go bindings for the CPython-3 C-API
 
 **Currently supports python-3.7 only.**
